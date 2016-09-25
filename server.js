@@ -32,7 +32,7 @@ var articles = {
         </p>
     </div>    `
 },
-    articleTwo : {   title : 'article-one :Premraj',
+    articleTwo : {   title : 'article-two :Premraj',
     heading:'Article Two',
     date :  'September 21th, 2016 ',
     content: `
